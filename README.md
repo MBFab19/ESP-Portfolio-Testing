@@ -36,5 +36,7 @@ Soy una persona creativa, proactiva, responsable y planificadora, me gusta traba
   * [Gestión de Incidentes en Base de Datos]()
   * [Informe de Pruebas en Base de Datos]()
  
+ ## Otros proyectos
+ 
   * [Salud mental en tiempos de COVID-19](https://docs.google.com/document/d/1PRnvuWAImKSNYe8COTNF2M1w9sZzNnji/edit?usp=sharing&ouid=111567554981086059412&rtpof=true&sd=true)
   * [Informe de Pruebas - Instagram Web](https://drive.google.com/file/d/1uefg2cFynspkTriKzmg0GZeXH_FxQswu/view?usp=sharing)
