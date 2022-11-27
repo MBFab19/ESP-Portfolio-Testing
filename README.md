@@ -15,7 +15,7 @@ Soy una persona creativa, proactiva, responsable y planificadora, me gusta traba
 * **Implementing Database Security for Beginners:**
   
 ## Herramientas
-Puedes comentar algunas de las herramientas que manejas vinculadas al testing de software. Por ejemplo:
+
 * Testlink
 * Jira
 * MantisBT
@@ -33,8 +33,8 @@ Puedes comentar algunas de las herramientas que manejas vinculadas al testing de
   * [Casos de Prueba](https://docs.google.com/spreadsheets/d/1kHCI2WKKCuKaErIMvwpA6bzfNq4AK_T1/edit?usp=sharing&ouid=111567554981086059412&rtpof=true&sd=true)
   * [Gestión de Incidentes](https://docs.google.com/spreadsheets/d/1eImLlSWND2l7o4t9lrj5HUJYlw8wOtnD/edit?usp=sharing&ouid=111567554981086059412&rtpof=true&sd=true)
   * [Informe de Pruebas](https://docs.google.com/document/d/1DokT4EJfiCDkdYNQk-b4OXAcOmYfQf0r/edit?usp=sharing&ouid=111567554981086059412&rtpof=true&sd=true)
-  * [Gestión de Incidentes en Base de Datos] ()
-  * [Informe de Pruebas en Base de Datos] ()
-  
-  * [Salud mental en tiempos de COVID-19] (https://docs.google.com/document/d/1PRnvuWAImKSNYe8COTNF2M1w9sZzNnji/edit?usp=sharing&ouid=111567554981086059412&rtpof=true&sd=true)
-  * [Informe de Pruebas - Instagram Web] (https://drive.google.com/file/d/1uefg2cFynspkTriKzmg0GZeXH_FxQswu/view?usp=sharing)
+  * [Gestión de Incidentes en Base de Datos]()
+  * [Informe de Pruebas en Base de Datos]()
+ 
+  * [Salud mental en tiempos de COVID-19](https://docs.google.com/document/d/1PRnvuWAImKSNYe8COTNF2M1w9sZzNnji/edit?usp=sharing&ouid=111567554981086059412&rtpof=true&sd=true)
+  * [Informe de Pruebas - Instagram Web](https://drive.google.com/file/d/1uefg2cFynspkTriKzmg0GZeXH_FxQswu/view?usp=sharing)
