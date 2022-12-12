@@ -1,9 +1,10 @@
 # Portfolio Testing
-## Sobre mí
-Tengo gran interés por el mundo del testing y la programación. Actualmente me encuentro iniciando mis estudios de Ingeniería en Computación (UdelaR). Culminé mis estudios de Testing en Jóvenes a Programar (Ceibal) en el año 2022.
-Soy una persona creativa, proactiva, responsable y planificadora, me gusta trabajar en la redacción de informes y la resolución de problemas prestando gran atención al detalle. Poseo capacidad de adaptación, flexibilidad ante las situaciones cambiantes del entorno y trabajo en equipo. Cuento con constante disposición para adquirir nuevos conocimientos.
+## Sobre mí / About me
+Tengo gran interés por el mundo del testing y la programación. Soy una persona creativa, proactiva, responsable y planificadora, me gusta trabajar en la redacción de informes y la resolución de problemas prestando gran atención al detalle. Poseo capacidad de adaptación, flexibilidad ante las situaciones cambiantes del entorno y trabajo en equipo. Cuento con constante disposición para adquirir nuevos conocimientos.
 
-## Cursos
+Interested in testing and programming. I’m a creative, proactive, responsible and planner person, I like to work on report writing and problem solving, paying great attention to detail. I have the constant willingness to acquire new knowledge and teamwork.
+
+## Cursos / Courses
 * **Tester de Software - Jóvenes a Programar (230hs):**
 
   * Introducción a la programación y pensamiento computacional.
@@ -14,7 +15,7 @@ Soy una persona creativa, proactiva, responsable y planificadora, me gusta traba
   
 * **Implementing Database Security for Beginners:**
   
-## Herramientas
+## Herramientas / Tools
 
 * Testlink
 * Jira
