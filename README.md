@@ -1,21 +1,19 @@
 # Portfolio Testing
-## Sobre mí / About me
+## Sobre mí
 Tengo gran interés por el mundo del testing y la programación. Soy una persona creativa, proactiva, responsable y planificadora, me gusta trabajar en la redacción de informes y la resolución de problemas prestando gran atención al detalle. Poseo capacidad de adaptación, flexibilidad ante las situaciones cambiantes del entorno y trabajo en equipo. Cuento con constante disposición para adquirir nuevos conocimientos.
 
-Interested in testing and programming. I’m a creative, proactive, responsible and planner person, I like to work on report writing and problem solving, paying great attention to detail. I have the constant willingness to acquire new knowledge and teamwork.
-
-## Cursos / Courses
+## Cursos 
 * **Tester de Software - Jóvenes a Programar (230hs):**
 
   * Introducción a la programación y pensamiento computacional.
-  * Testing: casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regresión e informes de prueba.
+  * Testing: casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regresión e informes de prueba / Testing: test cases 
   * Competencias transversales: comunicación, trabajo en equipo, proactividad, determinación (GRIT), relaciones interpersonales, autogestión y responsabilidad.
   * Inglés (VOXY).
   * Creación de un proyecto ágil en Jira, configuración y administración de un tablero Kanban.
   
-* **Implementing Database Security for Beginners:**
+* **Implementing Database Security for Beginners (En curso):**
   
-## Herramientas / Tools
+## Herramientas 
 
 * Testlink
 * Jira
@@ -31,6 +29,7 @@ Interested in testing and programming. I’m a creative, proactive, responsible 
 ## Mi trabajo
 
   * [E-Commerce de capacitación](https://japceibal.github.io/e-mercado-TESTING/index.html):
+  * [ESRE]() 
   * [Casos de Prueba](https://docs.google.com/spreadsheets/d/1kHCI2WKKCuKaErIMvwpA6bzfNq4AK_T1/edit?usp=sharing&ouid=111567554981086059412&rtpof=true&sd=true)
   * [Gestión de Incidentes](https://docs.google.com/spreadsheets/d/1eImLlSWND2l7o4t9lrj5HUJYlw8wOtnD/edit?usp=sharing&ouid=111567554981086059412&rtpof=true&sd=true)
   * [Informe de Pruebas](https://docs.google.com/document/d/1DokT4EJfiCDkdYNQk-b4OXAcOmYfQf0r/edit?usp=sharing&ouid=111567554981086059412&rtpof=true&sd=true)
