@@ -29,7 +29,6 @@ Tengo gran interés por el mundo del testing y la programación. Soy una persona
 ## Mi trabajo
 
   * [E-Commerce de capacitación](https://japceibal.github.io/e-mercado-TESTING/index.html):
-  * [ESRE](https://docs.google.com/document/d/1NyzAdFJ2ronX8VRkRv1pTM7i1NrefEBa/edit?usp=sharing&ouid=111567554981086059412&rtpof=true&sd=true) 
   * [Casos de Prueba](https://docs.google.com/spreadsheets/d/1kHCI2WKKCuKaErIMvwpA6bzfNq4AK_T1/edit?usp=sharing&ouid=111567554981086059412&rtpof=true&sd=true)
   * [Gestión de Incidentes](https://docs.google.com/spreadsheets/d/1eImLlSWND2l7o4t9lrj5HUJYlw8wOtnD/edit?usp=sharing&ouid=111567554981086059412&rtpof=true&sd=true)
   * [Informe de Pruebas](https://docs.google.com/document/d/1DokT4EJfiCDkdYNQk-b4OXAcOmYfQf0r/edit?usp=sharing&ouid=111567554981086059412&rtpof=true&sd=true)
