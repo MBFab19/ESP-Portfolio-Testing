@@ -6,7 +6,7 @@ Tengo gran interés por el mundo del testing y la programación. Soy una persona
 * **Tester de Software - Jóvenes a Programar (230hs):**
 
   * Introducción a la programación y pensamiento computacional.
-  * Testing: casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regresión e informes de prueba / Testing: test cases 
+  * Testing: especificación de requerimientos, casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regresión e informes de prueba.
   * Competencias transversales: comunicación, trabajo en equipo, proactividad, determinación (GRIT), relaciones interpersonales, autogestión y responsabilidad.
   * Inglés (VOXY).
   * Creación de un proyecto ágil en Jira, configuración y administración de un tablero Kanban.
