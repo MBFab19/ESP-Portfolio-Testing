@@ -11,8 +11,6 @@ Tengo gran interés por el mundo del testing y la programación. Soy una persona
   * Inglés (VOXY).
   * Creación de un proyecto ágil en Jira, configuración y administración de un tablero Kanban.
   
-* **Implementing Database Security for Beginners (En curso):**
-  
 ## Herramientas 
 
 * Testlink
